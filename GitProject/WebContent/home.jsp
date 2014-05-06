@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+You're inside the home page
 </body>
 </html>
